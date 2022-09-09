@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guoxinyu22
 - 👀 I’m interested in GoLang,Java,Vue,MySQL
 - 🌱 I’m currently learning GoLang
-- 💞️ I’m looking to collaborate on GoLang
+- 💞️ I’m looking to collaborate on https://golang.google.cn/
 - 📫 How to reach me guoxinyu22163@163.com
 
 <!---
